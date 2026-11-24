@@ -3,3 +3,16 @@
 env_vars*
 credentials*
 **/build/*
+
+# Material guía del curso (no se versiona)
+notebooks_guia/
+
+# Datos descargados (caché local)
+data/
+
+# Plantilla de variables de entorno (sin claves): sí se versiona
+!.env.example
+
+# Entorno virtual y metadatos de instalación
+.venv/
+*.egg-info/
