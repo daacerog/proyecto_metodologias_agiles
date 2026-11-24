@@ -75,7 +75,7 @@ gantt
 ## Equipo del Proyecto
 
 - Erika Katherin Olivera Parrado - Integrante del equipo
-- Dairo Andres Acero Guerrero - Integrante del equipo
+- Dario Andres Acero Guerrero - Integrante del equipo
 - Jhon Anderson Bermudez Hurtado - Integrante del equipo
 
 ## Presupuesto
@@ -91,7 +91,7 @@ El proyecto usa únicamente fuentes de datos públicas y herramientas de código
 ## Aprobaciones
 
 - Erika Katherin Olivera Parrado - Integrante del equipo
-- Dairo Andres Acero Guerrero - Integrante del equipo
+- Dario Andres Acero Guerrero - Integrante del equipo
 - Jhon Anderson Bermudez Hurtado - Integrante del equipo
 - Juan Sebastian Malagon - Tutor de la clase
 

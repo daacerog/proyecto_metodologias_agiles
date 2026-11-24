@@ -13,7 +13,7 @@ El detalle está en el [Project Charter](docs/business_understanding/project_cha
 ## Equipo
 
 - Erika Katherin Olivera Parrado
-- Dairo Andres Acero Guerrero
+- Dario Andres Acero Guerrero
 - Jhon Anderson Bermudez Hurtado
 
 **Tutor:** Juan Sebastian Malagon
